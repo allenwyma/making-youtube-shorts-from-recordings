@@ -1,0 +1,9 @@
+{
+ "_comment": "BEAM There, Done That: ink text on dark navy with the rainbow border of the on-screen name tag, placed above the name tag of the Ecamm vertical layout. border: [position 0..1, [r, g, b]] stops across the box width.",
+ "font": "../assets/Inter.woff2", "size": 62, "weight": 650,
+ "text": [243, 245, 254, 255], "box": [22, 24, 38, 235],
+ "border_width": 5, "border": [[0.0, [111, 227, 210]], [0.38, [215, 224, 127]], [0.68, [242, 160, 200]], [1.0, [225, 75, 224]]],
+ "radius": 28, "pad_x": 40, "pad_y": 26, "line_height": 80,
+ "y": 1250, "strip_height": 330, "max_width": 860,
+ "max_words": 5, "max_chars": 26
+}

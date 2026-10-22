@@ -1,0 +1,9 @@
+{
+ "_comment": "Caption look. Pixels on the 1080x1920 canvas. Colours RGBA (box, text) or RGB (border). y: top of the caption strip; 1250 sits above the bottom third, clear of the YouTube Shorts title and buttons.",
+ "font": "../assets/Inter.woff2", "size": 62, "weight": 650,
+ "text": [255, 255, 255, 255], "box": [0, 0, 0, 190],
+ "border_width": 0, "border": [],
+ "radius": 24, "pad_x": 40, "pad_y": 26, "line_height": 80,
+ "y": 1250, "strip_height": 330, "max_width": 860,
+ "max_words": 5, "max_chars": 26
+}
